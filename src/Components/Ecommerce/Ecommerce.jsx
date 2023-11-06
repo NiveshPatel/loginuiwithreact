@@ -1,8 +1,8 @@
 import React from 'react'
 import Navbar from '../Navbar'
 import { Route, Routes ,Router} from 'react-router-dom'
-import Shop from '../../pages/shop/shop'
-import Cart from '../../pages/cart/cart'
+import Shop from '../../pages/Shop/Shop'
+
 
 const Ecommerce = () => {
   return (
